@@ -1,0 +1,22 @@
+[Desktop Entry]
+Comment=Awoo-Splash KDE Splash Screen
+
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;Arch;Dark;Red;White;
+Name=Awoo-Splash
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Name=Awoo-Splash
+X-KDE-PluginInfo-Author=Ambar
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=CCPL:by-sa
+X-KDE-PluginInfo-Name=Awoo-Splash
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-Plasma-MainScript=defaults
+X-KPackage-Dependencies=
